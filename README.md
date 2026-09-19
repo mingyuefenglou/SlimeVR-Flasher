@@ -4,7 +4,7 @@ SlimeVR SlimeNRF 系列追踪器的烧录 / OTA 上位工具（规划中）。
 
 ## 目标
 
-- 对 NiNi 5883 板与 SlimeNRF 生态追踪器的 USB 直连烧写（UF2 / CDC）
+- 对 NiNi SlimeNRF 生态追踪器的 USB 直连烧写（UF2 / CDC）
 - ESB OTA：经接收器对追踪器无线升级（协议参考上游 esb_ota.py 与 ota-web，MIT）
 - 固件产物按板型识别与版本管理
 
